@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "epmultlab", "epmultlab\epmultlab.csproj", "{EB2EE934-03B6-463C-8F6C-5BAD3C4C8DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webepmlab", "webepmlab\webepmlab.csproj", "{EBDFFD97-AE86-4021-881E-958AD0422042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiepmlab", "apiepmlab\apiepmlab.csproj", "{2B47D187-EB4A-48A3-A109-CC48FED399EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2EE934-03B6-463C-8F6C-5BAD3C4C8DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2EE934-03B6-463C-8F6C-5BAD3C4C8DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2EE934-03B6-463C-8F6C-5BAD3C4C8DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2EE934-03B6-463C-8F6C-5BAD3C4C8DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBDFFD97-AE86-4021-881E-958AD0422042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDFFD97-AE86-4021-881E-958AD0422042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDFFD97-AE86-4021-881E-958AD0422042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDFFD97-AE86-4021-881E-958AD0422042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B47D187-EB4A-48A3-A109-CC48FED399EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B47D187-EB4A-48A3-A109-CC48FED399EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B47D187-EB4A-48A3-A109-CC48FED399EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B47D187-EB4A-48A3-A109-CC48FED399EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89C4240B-A61D-43F5-A7DC-9C646B7CED15}
+	EndGlobalSection
+EndGlobal
